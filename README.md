@@ -20,7 +20,6 @@ InterChat, kullanıcıların bankacılık işlemlerini kolayca gerçekleştirmel
 ### 💰 Hesap Yönetimi
 - **Bakiye Sorgulama**: Tüm hesapların bakiyelerini görüntüleme
 - **Hesap Türleri**: Vadeli mevduat, vadesiz mevduat, maaş hesabı, yatırım hesabı
-- **Kart Bilgileri**: Kredi kartı limitleri, borç durumu, ekstre tarihleri
 
 ### 💸 Para Transferi
 - **Hesap İçi Transfer**: Kendi hesaplarınız arasında para transferi
@@ -42,15 +41,14 @@ InterChat, kullanıcıların bankacılık işlemlerini kolayca gerçekleştirmel
 ### 📈 Yatırım Araçları
 - **Portföy Simülasyonu**: Monte Carlo simülasyonu ile yatırım projeksiyonları
 - **ROI Hesaplama**: Yatırım getirisi hesaplamaları
-- **Portföy Türleri**: Düşük risk, dengeli, büyüme portföyleri
+- **Portföy Türleri**: korumalı, dengeli, büyüme portföyleri
 
 ### 🏢 Şube ve ATM
 - **Konum Bazlı Arama**: Şehir ve ilçeye göre şube/ATM bulma
 - **Yakınlık Sıralaması**: En yakın şube ve ATM'leri listeleme
-- **Detaylı Bilgiler**: Adres, çalışma saatleri, koordinatlar
+- **Detaylı Bilgiler**: Adres vs.
 
 ### 💳 Kart İşlemleri
-- **Kart Limit Artışı**: Kredi kartı limit artış talepleri
 - **Kart Bilgileri**: Mevcut limit, borç, ekstre tarihleri
 - **Kart Listesi**: Tüm kartların özet bilgileri
 
@@ -318,6 +316,15 @@ Bu proje eğitim amaçlı geliştirilmiştir. Ticari kullanım için INTERTECH �
 ## 👥 Geliştirici Ekibi
 
 **INTERTECH** şirketi - 2025 InternTech Staj Programı **Takım 2**
+
+- [imSurme](https://github.com/imSurme)
+- [alperozdmr](https://github.com/alperozdmr)
+- [KartalKanzi](https://github.com/KartalKanzi)
+- [ZisanYesil](https://github.com/ZisanYesil)
+- [araloz](https://github.com/araloz)
+- [bilgehanakn](https://github.com/bilgehanakn)
+- [gurkanzeytin](https://github.com/gurkanzeytin)
+- [simay224090](https://github.com/simay224090)
 
 ---
 
