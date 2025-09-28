@@ -19,7 +19,7 @@ InterChat, kullanıcıların bankacılık işlemlerini kolayca gerçekleştirmel
 
 ### 💰 Hesap Yönetimi
 - **Bakiye Sorgulama**: Tüm hesapların bakiyelerini görüntüleme
-- **Hesap Türleri**: Vadeli mevduat, vadesiz mevduat, maaş hesabı, yatırım hesabı
+- **Hesap Türleri**: Vadeli mevduat, vadesiz mevduat, maaş hesabı ve yatırım hesabı
 
 ### 💸 Para Transferi
 - **Hesap İçi Transfer**: Kendi hesaplarınız arasında para transferi
